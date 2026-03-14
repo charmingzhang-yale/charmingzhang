@@ -21,10 +21,9 @@ https://doi.org/10.1186/s13059-024-03449-7
 
 The paper introduces **EpiGePT**, a transformer-based genomic language model that predicts epigenomic signals using DNA sequence, transcription factor activity, and chromatin interaction information.
 
-## Main innovation
-
-- incorporate transcription factor (TF) profiles to represent cellular context
-- incorporate 3D chromatin interaction data during training
+- Main innovation:
+  - incorporate transcription factor (TF) profiles to represent cellular context
+  - incorporate 3D chromatin interaction data during training
 - Goal: predict regulatory features across genomic regions and cell types.
 
 ## Data

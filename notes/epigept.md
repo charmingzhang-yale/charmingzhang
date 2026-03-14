@@ -2,6 +2,7 @@
 layout: page
 title: "EpiGePT: a pretrained transformer-based language model for context-specific human epigenomics"
 permalink: /notes/epigept/
+---
 
 ## Big picture: what problem does the paper solve?
 > Understanding regulatory information in the non-coding genome is still a major challenge. 

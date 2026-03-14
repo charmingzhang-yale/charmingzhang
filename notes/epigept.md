@@ -6,7 +6,10 @@ permalink: /notes/epigept/
 
 # EpiGePT: a pretrained transformer-based language model for context-specific human epigenomics
 
-https://doi.org/10.1186/s13059-024-03449-7
+**Paper:** https://doi.org/10.1186/s13059-024-03449-7  
+**Field:** Genomics · Deep Learning · Epigenomics
+
+---
 
 ## Big picture: what problem does the paper solve?
 

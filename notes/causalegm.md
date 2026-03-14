@@ -4,7 +4,7 @@ title: "CausalEGM"
 permalink: /notes/causalegm/
 ---
 
-# An encoding generative modeling approach to dimension reduction and covariate adjustment in causal inference with observational studies 🧠📉
+# An encoding generative modeling approach to dimension reduction and covariate adjustment in causal inference with observational studies 
 
 **Paper:** https://doi.org/10.1073/pnas.2322376121  
 **Field:** Causal Inference · Deep Learning · Dimension Reduction

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "EpiGePT: a pretrained transformer-based language model for context-specific human epigenomics"
+title: "EpiGePT"
 permalink: /notes/epigept/
 ---
 

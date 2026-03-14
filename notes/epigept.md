@@ -11,7 +11,7 @@ permalink: /notes/epigept/
 
 ---
 
-## Big picture: what problem does the paper solve?
+## Big picture: what problem does the paper solve? 🔎
 
 - Understanding regulatory information in the non-coding genome is still a major challenge.
 - Gene regulation depends strongly on cellular context and chromatin structure.
@@ -20,7 +20,7 @@ permalink: /notes/epigept/
   - They rely mainly on DNA sequence alone.
   - They cannot generalize well to unseen cellular contexts.
 
-## Core idea
+## Core idea 💡
 
 The paper introduces **EpiGePT**, a transformer-based genomic language model that predicts epigenomic signals using DNA sequence, transcription factor activity, and chromatin interaction information.
 
@@ -29,7 +29,7 @@ The paper introduces **EpiGePT**, a transformer-based genomic language model tha
   - incorporate 3D chromatin interaction data during training
 - Goal: predict regulatory features across genomic regions and cell types.
 
-## Data
+## Data 🧬
 
 The model is trained on large-scale epigenomic datasets, mainly from ENCODE.
 
@@ -41,7 +41,7 @@ The model is trained on large-scale epigenomic datasets, mainly from ENCODE.
 
 A key design decision: training examples are defined as **(genomic region + cellular context)** instead of just genomic region.
 
-## Model
+## Model ⚙️
 
 The model contains four main modules.
 
@@ -50,7 +50,7 @@ The model contains four main modules.
 - Transformer module: uses self-attention to learn relationships across genomic positions.
 - Prediction module: predicts multiple epigenomic signals simultaneously.
 
-## Results
+## Results 📊
 
 - Improved prediction of epigenomic signals
 - Predicts long-range regulatory interactions
@@ -58,6 +58,6 @@ The model contains four main modules.
 - Infers regulatory transcription factor networks
 - Predicts effects of genetic variants
 
-## Conclusions
+## Conclusions 🧾
 
 EpiGePT is a pretrained transformer model for epigenomics that integrates DNA sequence, transcription factor context, and 3D chromatin interactions.

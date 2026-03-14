@@ -1,12 +1,12 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-cayman";
 
-body {
-  background: #fff7f7 !important;
-}
-
-h1 {
-  color: red !important;
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-left: 64px;
+  padding-right: 64px;
+  line-height: 1.7;
 }

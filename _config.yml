@@ -4,5 +4,5 @@ theme: jekyll-theme-cayman
 
 markdown: kramdown
 
-include:
-  - assets/css/custom.css
+sass:
+  style: compressed

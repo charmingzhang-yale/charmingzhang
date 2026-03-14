@@ -4,6 +4,8 @@ title: "EpiGePT: a pretrained transformer-based language model for context-speci
 permalink: /notes/epigept/
 ---
 
+<div style="max-width: 900px; margin: 0 auto; padding-left: 48px; padding-right: 48px; line-height: 1.7;">
+
 # EpiGePT: a pretrained transformer-based language model for context-specific human epigenomics
 
 **Paper:** https://doi.org/10.1186/s13059-024-03449-7  
@@ -61,3 +63,5 @@ The model contains four main modules.
 ## Conclusions 🧾
 
 EpiGePT is a pretrained transformer model for epigenomics that integrates DNA sequence, transcription factor context, and 3D chromatin interactions.
+
+</div>

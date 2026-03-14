@@ -24,6 +24,8 @@ for aging and end-of-life care, and global health policy.
 I write short academic reflections on workshops, seminars, and conferences
 related to biostatistics, public health, and policy.
 
+- [EpiGePT](/notes/epigept/)
+
 ## Contact
 📧 charming.zhang@yale.edu  
 🐦 X: https://x.com/Charming_ZZM  

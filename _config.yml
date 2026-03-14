@@ -3,3 +3,6 @@ description: MS Biostatistics at Yale School of Public Health
 theme: jekyll-theme-cayman
 
 markdown: kramdown
+
+sass:
+  style: compressed

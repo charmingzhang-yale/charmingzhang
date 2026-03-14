@@ -3,10 +3,14 @@
 
 @import "jekyll-theme-cayman";
 
+/* Narrow the reading column */
 .main-content {
-  max-width: 900px;
+  max-width: 780px;
   margin: 0 auto;
-  padding-left: 64px;
-  padding-right: 64px;
+}
+
+/* Optional: improve readability */
+.main-content p,
+.main-content li {
   line-height: 1.7;
 }

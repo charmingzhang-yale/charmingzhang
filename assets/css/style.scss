@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Adjust content width and margins */
+
+.main-content {
+  max-width: 850px;
+  margin: auto;
+  padding-left: 40px;
+  padding-right: 40px;
+}
